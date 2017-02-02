@@ -15,7 +15,7 @@ Usage
 
 .. code-block:: bash
 
-    Usage: gopher.py [OPTIONS]
+    Usage: gopher [OPTIONS]
 
     Options:
       -o, --output TEXT  Output file name (png).
