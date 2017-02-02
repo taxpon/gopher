@@ -1,3 +1,0 @@
-click==6.7
-requests==2.13.0
-setupfiles==0.0.0

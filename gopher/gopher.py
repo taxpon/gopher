@@ -1,15 +1,10 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import os
 import click
 import requests
 from collections import OrderedDict
-
-__version__ = '0.1.2'
-__author__ = 'Takuro Wada'
-__email__ = "taxpon@gmail.com"
-__url__ = "https://github.com/taxpon/gopher"
-__license__ = "MIT"
 
 
 class GopherIcon(object):
