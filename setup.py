@@ -22,7 +22,8 @@ setup(
     license=gopher.__license__,
     install_requires=[
         'click>=2.0',
-        'requests>=2.13.0'],
+        'requests>=2.13.0',
+        'typing'],
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python",
