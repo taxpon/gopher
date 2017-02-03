@@ -20,6 +20,7 @@ Usage
     Options:
       -o, --output TEXT  Output file name (png).
       -w, --overwrite    Overwrite if the same name file already exists.
+      -s, --simple       Get simple gopher.
       --help             Show this message and exit.
 
 
